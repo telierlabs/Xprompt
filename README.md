@@ -1,2 +1,2 @@
-# Xprompt
+# Xnarra
 Membuat perintah untuk semua AI 
